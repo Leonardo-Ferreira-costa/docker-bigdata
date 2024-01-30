@@ -107,17 +107,29 @@ Imagens
 Docker Hub
 
 Documentação Oficial
+
 https://zookeeper.apache.org/
+
 https://kafka.apache.org/
+
 https://nifi.apache.org/
+
 https://prestodb.io/
+
 https://spark.apache.org/
+
 https://www.mongodb.com/
+
 https://www.metabase.com/
+
 https://jupyter.org/
+
 https://hbase.apache.org/
+
 https://sqoop.apache.org/
+
 https://hadoop.apache.org/
+
 https://hive.apache.org/
 https://gethue.com/
 https://github.com/yahoo/CMAK
