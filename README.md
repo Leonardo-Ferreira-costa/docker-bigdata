@@ -140,4 +140,3 @@ Ambiente para estudo dos principais frameworks big data em docker.
 * https://github.com/yahoo/CMAK
 * https://www.docker.com/
 
-Este repositório é um fork do [fabiogjardim](https://github.com/fabiogjardim/bigdata_docker)
